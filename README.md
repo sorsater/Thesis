@@ -1,5 +1,7 @@
 # Thesis
-My Master's thesis.
+My Master's thesis written at Veoneer and Linköping University.
+
+Published [here.](https://liu.diva-portal.org/smash/get/diva2:1259079/FULLTEXT01.pdf)
 
 
 ## Abstract
